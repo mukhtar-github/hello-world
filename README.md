@@ -1,5 +1,5 @@
-# hello-world
-my repository
+# Hello-World
+My  first repository
 
-i am glad for becoming a participant in the github
-and i hope i will benefit alot from the forum.
+I'm glad for being part of github,
+and I hope to benefit from this community.
